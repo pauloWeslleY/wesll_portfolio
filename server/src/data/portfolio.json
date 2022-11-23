@@ -1,0 +1,146 @@
+{
+   "portfolio": [
+      {
+         "imageUrl": "https://github.com/pauloWeslleY/blog-weslley/blob/master/src/assets/trab_acupu2.jpg?raw=true",
+         "title": "Clínica",
+         "label": "Acupuntura",
+         "description_tech": "Tecnologias Utilizadas",
+         "git": "GitHub",
+         "live_preview": "Live Preview",
+         "link": "https://draacupuntura.000webhostapp.com/"
+      },
+      {
+         "imageUrl": "https://github.com/pauloWeslleY/blog-weslley/blob/master/src/assets/serralheria.png?raw=true",
+         "title": "Serralheria",
+         "label": "Karson",
+         "description_tech": "Tecnologias Utilizadas",
+         "git": "GitHub",
+         "live_preview": "Live Preview",
+         "link": "https://serralheriakarson.vercel.app"
+      },
+      {
+         "imageUrl": "https://github.com/pauloWeslleY/blog-weslley/blob/master/src/assets/orchids.png?raw=true",
+         "title": "Orquidário",
+         "label": "Iara",
+         "description_tech": "Tecnologias Utilizadas",
+         "git": "GitHub",
+         "github": "https://github.com/pauloWeslleY/app_orchids",
+         "live_preview": "Live Preview",
+         "link": "https://orquidario.vercel.app/"
+      },
+      {
+         "imageUrl": "https://github.com/pauloWeslleY/blog-weslley/blob/master/src/assets/fiqlimp.png?raw=true",
+         "title": "Fiq Limp",
+         "label": "Clear",
+         "description_tech": "Tecnologias Utilizadas",
+         "git": "GitHub",
+         "github": "https://github.com/pauloWeslleY/app_clear",
+         "live_preview": "Live Preview",
+         "link": "https://fiq-limp.netlify.app/"
+      },
+      {
+         "imageUrl": "https://github.com/pauloWeslleY/blog-weslley/blob/master/src/assets/pokedex.png?raw=true",
+         "title": "Web",
+         "label": "Pokedex",
+         "description_tech": "Tecnologias Utilizadas",
+         "git": "GitHub",
+         "github": "https://github.com/pauloWeslleY/pokedex__next",
+         "live_preview": "Live Preview",
+         "link": "https://pokedexweb.vercel.app/"
+      },
+      {
+         "imageUrl": "https://github.com/pauloWeslleY/blog-weslley/blob/master/src/assets/podcastnext.png?raw=true",
+         "title": "NLW 5",
+         "label": "Podcastr",
+         "description_tech": "Tecnologias Utilizadas",
+         "git": "GitHub",
+         "github": "https://github.com/pauloWeslleY/podcastrnext",
+         "live_preview": "Live Preview"
+      },
+      {
+         "imageUrl": "https://github.com/pauloWeslleY/blog-weslley/blob/master/src/assets/gourmet.png?raw=true",
+         "title": "Candys",
+         "label": "Gourmet",
+         "description_tech": "Tecnologias Utilizadas",
+         "git": "GitHub",
+         "github": "https://github.com/pauloWeslleY/app_gourmet",
+         "live_preview": "Live Preview",
+         "link": "https://rosegourmet.vercel.app/"
+      },
+      {
+         "imageUrl": "https://github.com/pauloWeslleY/blog-weslley/blob/master/src/assets/esports.png?raw=true",
+         "title": "NLW",
+         "label": "eSports",
+         "description_tech": "Tecnologias Utilizadas",
+         "git": "GitHub",
+         "github": "https://github.com/pauloWeslleY/nlw_esports_ignite",
+         "live_preview": "Live Preview"
+      },
+      {
+         "imageUrl": "https://github.com/pauloWeslleY/blog-weslley/blob/master/src/assets/proj_doctorcare.png?raw=true",
+         "title": "Doctor",
+         "label": "Care",
+         "description_tech": "Tecnologias Utilizadas",
+         "git": "GitHub",
+         "github": "https://github.com/pauloWeslleY/webdoctorcare",
+         "live_preview": "Live Preview",
+         "link": "https://pauloweslley.github.io/webdoctorcare/"
+      },
+      {
+         "imageUrl": "https://github.com/pauloWeslleY/blog-weslley/blob/master/src/assets/proj_origin.png?raw=true",
+         "title": "Beauty",
+         "label": "Salon",
+         "description_tech": "Tecnologias Utilizadas",
+         "git": "GitHub",
+         "github": "https://github.com/pauloWeslleY/prejeto-Origin-nlw",
+         "live_preview": "Live Preview",
+         "link": "https://web-origin-six.netlify.app/"
+      },
+      {
+         "imageUrl": "https://github.com/pauloWeslleY/blog-weslley/blob/master/src/assets/proj_assistencia.png?raw=true",
+         "title": "Assistência",
+         "label": "Técnica",
+         "description_tech": "Tecnologias Utilizadas",
+         "git": "GitHub",
+         "github": "https://github.com/pauloWeslleY/ass_tecnica",
+         "live_preview": "Live Preview",
+         "link": "https://assistencia-tecnica.netlify.app"
+      },
+      {
+         "imageUrl": "https://github.com/pauloWeslleY/blog-weslley/blob/master/src/assets/proj_pontocursos.png?raw=true",
+         "title": "Ponto",
+         "label": "Cursos",
+         "description_tech": "Tecnologias Utilizadas",
+         "git": "GitHub",
+         "github": "https://github.com/pauloWeslleY/pontoscursos",
+         "live_preview": "Live Preview",
+         "link": "https://ponto-cursos.netlify.app/"
+      },
+      {
+         "imageUrl": "https://github.com/pauloWeslleY/blog-weslley/blob/master/src/assets/proj_website.png?raw=true",
+         "title": "My",
+         "label": "Portfolio",
+         "description_tech": "Tecnologias Utilizadas",
+         "git": "GitHub",
+         "live_preview": "Live Preview",
+         "link": "https://weslleylima.vercel.app"
+      },
+      {
+         "imageUrl": "https://github.com/pauloWeslleY/blog-weslley/blob/master/src/assets/proj_portfolio.png?raw=true",
+         "title": "My",
+         "label": "WebSite",
+         "description_tech": "Tecnologias Utilizadas",
+         "git": "GitHub",
+         "live_preview": "Live Preview",
+         "link": "https://weslleywebdeveloper.vercel.app"
+      },
+      {
+         "imageUrl": "https://camo.githubusercontent.com/1994b4521e0baafc06a1b96b4bef280448330e5d062e9f108e35f73bcde148b8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f68636f64652d636f6d2d62722e61707073706f742e636f6d2f6f2f44726f70426f78436c6f6e652e6a70673f616c743d6d6564696126746f6b656e3d64353963616430632d343430642d343531362d383866322d646139303462396262343433",
+         "title": "DropBox",
+         "label": "Clone",
+         "description_tech": "Tecnologias Utilizadas",
+         "git": "GitHub",
+         "live_preview": "Live Preview"
+      }
+   ]
+}

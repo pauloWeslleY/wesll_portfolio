@@ -1,0 +1,22 @@
+{
+   "content": {
+      "title": "Portfólio",
+      "project": "Projetos",
+      "projects_recent": "Recentes",
+      "skills": "Minhas Skills",
+      "about": "Sobre Mim",
+      "contact": "Entre em Contato",
+      "name_title": "Olá, Eu sou",
+      "name": "Weslley de Lima",
+      "description": "Desenvolvedor Web Front End Jr - HTML5 - CSS3 - Scss - JavaScript - TypeScript - Bootstrap - ReactJs",
+      "btn_title": "Saiba Mais"
+   },
+   "about_me": {
+      "name": "Paulo Weslley de Lima Firmino",
+      "title": "Paulo Weslley",
+      "job": "Front End Developer Jr",
+      "avatar": "https://github.com/pauloWeslleY/blog-weslley/blob/master/src/assets/avatar_profile.jpg?raw=true",
+      "imageUrl": "https://github.com/pauloWeslleY/blog-weslley/blob/master/src/assets/paulo-wes.jpg?raw=true",
+      "description": "Me chamo Paulo Weslley tenho 23 anos, atualmente estudo desenvolvimento web com foco voltado para área de desenvolvimento Front End com especialização em ReactJS."
+   }
+}
